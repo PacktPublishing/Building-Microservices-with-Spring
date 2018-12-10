@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\packt-book-workspace\Chapter-11-Spring-Reactive-Pattern"/>
+			<item value="D:\packt-book-workspace\Chapter-06-Spring-AOP-Annotation"/>
+			<item value="D:\packt-book-workspace\Chapter-05-Custom-Bean-Scope"/>
+			<item value="D:\packt-book-workspace\Chapter-04-Spring-Factory-Bean"/>
+			<item value="D:\packt-book-workspace\Chapter-01-Spring-Introduction-and-Patterns"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="Chapter-11-Spring-Reactive-Web-Functional"/>
+			<item value="Chapter-05-Custom-Scope-Bean"/>
+			<item value="Chapter-10-Spring-MVC-pattern"/>
+			<item value="Chapter-09-Spring-Cache"/>
+			<item value="Chapter-08-Spring-ORM-patterns"/>
+			<item value="Chapter-07-Spring-JDBC-template-pattern"/>
+			<item value="Chapter-05-Custom-Bean-Scope"/>
+			<item value="Chapter-05-Spring-Life-Cycle-Callback"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="Chapter-11-Spring-Reactive-Web-Functional"/>
+			<item value="Chapter-05-Custom-Scope-Bean"/>
+			<item value="Chapter-10-Spring-MVC-pattern"/>
+			<item value="Chapter-09-Spring-Cache"/>
+			<item value="Chapter-08-Spring-ORM-patterns"/>
+			<item value="Chapter-07-Spring-JDBC-template-pattern"/>
+			<item value="Chapter-05-Custom-Bean-Scope"/>
+			<item value="Chapter-05-Spring-Life-Cycle-Callback"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
